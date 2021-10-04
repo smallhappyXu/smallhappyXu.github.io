@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://smallhappyxu.github.io.git/link/index.html</loc>
     
     <lastmod>2021-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://smallhappyxu.github.io.git/categories/index.html</loc>
     
     <lastmod>2021-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://smallhappyxu.github.io.git/tags/index.html</loc>
     
     <lastmod>2021-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/10/03/front-matter/</loc>
+    <loc>https://smallhappyxu.github.io.git/2021/10/03/front-matter/</loc>
     
     <lastmod>2021-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/front-matter/index.html</loc>
+    <loc>https://smallhappyxu.github.io.git/front-matter/index.html</loc>
     
     <lastmod>2021-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/10/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://smallhappyxu.github.io.git/2021/10/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</loc>
     
     <lastmod>2021-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/10/03/hello-world/</loc>
+    <loc>https://smallhappyxu.github.io.git/2021/10/03/hello-world/</loc>
     
     <lastmod>1985-10-26</lastmod>
     
@@ -52,7 +52,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://smallhappyxu.github.io.git/</loc>
     <lastmod>2021-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
